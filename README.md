@@ -8,3 +8,5 @@ Some directions for implementation:
 - Other extensions to Windows File Explorer do exist (This is not necessarily a Windows-only idea, but that is where the problem needs solving the most)
 
 update: I need to look into https://fileviewerplus.com/manual/overview
+
+extra: if you also have webaccess to some of the same drives/folders/files you can set the relation path/URL in the settings, which then activates the possibility to "copy shareable URL".
