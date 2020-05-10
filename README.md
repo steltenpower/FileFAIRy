@@ -12,8 +12,8 @@ update: I need to look into https://fileviewerplus.com/manual/overview
 extra: if you also have webaccess to some of the same drives/folders/files you can set the relation path/URL in the settings, which then activates the possibility to "copy shareable URL".
 
 Per filetype maybe wikidata can deliver an icon, description and list of programs that can work with it in a (specified) way. Work to do at https://www.wikidata.org/wiki/Q235557
-(also 
-https://www.wikidata.org/wiki/Q235557
+(also see
+http://loc.gov/preservation/digital/formats/fdd/browse_list.shtml
 https://www.wikidata.org/wiki/Property:P3381
 https://www.wikidata.org/wiki/Q686498
 https://www.wikidata.org/wiki/Q3570403
