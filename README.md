@@ -14,6 +14,7 @@ extra: if you also have webaccess to some of the same drives/folders/files you c
 Per filetype maybe wikidata can deliver an icon, description and list of programs that can work with it in a (specified) way. Work to do at https://www.wikidata.org/wiki/Q235557
 (also see
 http://loc.gov/preservation/digital/formats/fdd/browse_list.shtml
+https://dans.knaw.nl/en/about/services/easy/information-about-depositing-data/before-depositing/file-formats
 https://www.wikidata.org/wiki/Property:P3381
 https://www.wikidata.org/wiki/Q686498
 https://www.wikidata.org/wiki/Q3570403
