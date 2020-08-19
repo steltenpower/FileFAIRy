@@ -23,3 +23,5 @@ ftype
 assoc
 https://docs.microsoft.com/en-us/windows/win32/shell/how-to-assign-a-custom-icon-to-a-file-type
 )
+
+Of course list files this way by default in web drives
