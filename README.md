@@ -8,7 +8,7 @@ Lists of files appear in many places: Windows file explorer, or one of the many 
 - validating for unambiguity (is it a valid .html file? Does the data adhere to the schema? etc.)
 - other quality checkers (spelling, bugs, speed, contrast, etc., etc.)
 - converters (especially closed to open file type)
-- highlight preferred file types (for example for archiving reasons) and have a link to click
+- highlight preferred file types (for example for archiving reasons) and a way to learn more about them
 - file type dependent help option (local support, open communities, etc.)
 
 On Windows File Explorer it could be realized by:
