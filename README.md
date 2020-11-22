@@ -15,26 +15,19 @@ On Windows File Explorer it could be realized by:
 - create something that when installed takes over all file type associations
 - maybe extending it. On previous Windows versions I've seen that done. Then you could also maybe in the contextMenu have "link to file in web interface". Maybe learn from https://fileviewerplus.com/manual/overview
 
-Where to try to get information about file types: wikidata, others
+Where to try to get information about file types:
+- wikidata
+- others
 
 See also:
-
-https://www.wikidata.org/wiki/Q235557
-
-http://loc.gov/preservation/digital/formats/fdd/browse_list.shtml
-
-https://dans.knaw.nl/en/about/services/easy/information-about-depositing-data/before-depositing/file-formats
-
-https://www.wikidata.org/wiki/Property:P3381
-
-https://www.wikidata.org/wiki/Q686498
-
-https://www.wikidata.org/wiki/Q3570403
-
-https://www.wikidata.org/wiki/Q935809
-
-ftype assoc
-
-https://docs.microsoft.com/en-us/windows/win32/shell/how-to-assign-a-custom-icon-to-a-file-type
+- https://www.wikidata.org/wiki/Q235557
+- http://loc.gov/preservation/digital/formats/fdd/browse_list.shtml
+- https://dans.knaw.nl/en/about/services/easy/information-about-depositing-data/before-depositing/file-formats
+- https://www.wikidata.org/wiki/Property:P3381
+- https://www.wikidata.org/wiki/Q686498
+- https://www.wikidata.org/wiki/Q3570403
+- https://www.wikidata.org/wiki/Q935809
+- ftype assoc
+- https://docs.microsoft.com/en-us/windows/win32/shell/how-to-assign-a-custom-icon-to-a-file-type
 
  (possible companion of [webber](https://github.com/steltenpower/webber))
