@@ -19,6 +19,9 @@ Where to try to get information about file types:
 - wikidata
 - others
 
+Partly inspired by:
+- [Data-Centric Manifesto](http://datacentricmanifesto.org/)
+
 See also:
 - https://www.wikidata.org/wiki/Q235557
 - http://loc.gov/preservation/digital/formats/fdd/browse_list.shtml
