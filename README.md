@@ -5,7 +5,7 @@ Lists of files appear in many places: Windows file explorer, or one of the many 
 - icons for file types, not for the associated application
 - always show the extension as part of the filename (in Windows File Explorer a setting that is now off by default I think)
 - context-menu list of supporting applications (installed on machine, available within school, national facility, or open source on the web)
-- validating for unambiguity (is it a valid .html file? Does the data adhere to the schema? etc.)
+- validating for unambiguity: Is it a valid .html file? Does the data adhere to the (frictionless) schema? etc.
 - other quality checkers (spelling, bugs, speed, contrast, etc., etc.)
 - converters (especially closed to open file type)
 - highlight preferred file types (for example for archiving reasons) and a way to learn more about them
