@@ -22,7 +22,7 @@ Where to try to get information about file types:
 Partly inspired by:
 - [Data-Centric Manifesto](http://datacentricmanifesto.org/)
 
-See also:
+possible ingredients/hints for implemenentation:
 - https://www.wikidata.org/wiki/Q235557
 - http://loc.gov/preservation/digital/formats/fdd/browse_list.shtml
 - https://dans.knaw.nl/en/about/services/easy/information-about-depositing-data/before-depositing/file-formats
