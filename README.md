@@ -10,6 +10,7 @@ Lists of files appear in many places: Windows file explorer, or one of the many 
 - converters (especially closed to open file type)
 - highlight preferred file types (for example for archiving reasons) and a way to learn more about them
 - file type dependent help option (local support, open communities, etc.)
+- showing different directions (protocol,permissions,system) towards the same or related files (data/schema, data/paper, ...)
 
 On Windows File Explorer it could be realized by:
 - create something that when installed takes over all file type associations
