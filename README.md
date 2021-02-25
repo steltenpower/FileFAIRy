@@ -1,4 +1,4 @@
-# dataCentricFileExploring
+# dataCentric-fileList
 As I too often heard "What do you mean with file type? I just use application X" and then having to tell someone what they now immediately want is impossible for (vendor) lock-in reasons, I imagined part of that could be prevented by changing how they view lists of files outside this application:
 
 Lists of files appear in many places: Windows file explorer, or one of the many 'webdrive' options that are either rather generic (local network drive, Teams, NextCloud, Dropbox) or specific to research: Figshare, Dataverse, DANS EASY and Surf Research Drive. What I think these user interfaces could use for every file:
