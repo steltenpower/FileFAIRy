@@ -23,7 +23,7 @@ Where to try to get information about file types:
 Partly inspired by:
 - [Data-Centric Manifesto](http://datacentricmanifesto.org/)
 
-possible ingredients/hints for implemenentation:
+possible ingredients/hints for implementation:
 - https://www.wikidata.org/wiki/Q235557
 - http://loc.gov/preservation/digital/formats/fdd/browse_list.shtml
 - https://dans.knaw.nl/en/about/services/easy/information-about-depositing-data/before-depositing/file-formats
@@ -33,5 +33,6 @@ possible ingredients/hints for implemenentation:
 - https://www.wikidata.org/wiki/Q935809
 - ftype assoc
 - https://docs.microsoft.com/en-us/windows/win32/shell/how-to-assign-a-custom-icon-to-a-file-type
+- https://hello.fileslide.io/
 
  (possible companion of [webber](https://github.com/steltenpower/webber))
