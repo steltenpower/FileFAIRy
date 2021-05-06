@@ -3,7 +3,8 @@ First think of any list of files, e.g. Windows File Explorer, or what you get in
 Now look at the quick sketch here and below I'll explain how and why they differ.
 ![alt text](https://repository-images.githubusercontent.com/149428210/f8bcf200-77cf-11eb-93f8-452cf9db3dcb "Sharing a network of data, over the list of files you have")
 
-The columns from left to right:
+DESIGN: The columns from left to right:
+=======================================
 - OPEN SPEC: Is the file type of a file a so-called open specification? I used a green O for open (e.g. HTML), a dashed O for 'open' (e.g. OOXML, open by license, but seems not designed to make interoperability easy) and a red C for closed formats.
 - PREF: Is it a preferred/allowed format by parties (journals, research archives, anybody) you find important? I used the direction and color of thumbs to visualize. Clicking it pops up settings for (more) validation: spelling, linters, accessibility (a11y), link checkers, etc., etc.
 - VALID: What's the result of automatic validation of the file against the specification and schema? See goodtables.io, validator.w3.org and others.
@@ -16,10 +17,14 @@ The columns from left to right:
 - COMMITED: everything has a commit/version. We all GIT, right?
 - (not in drawing yet): MORE METADATA (DC and other vocabulaires) and based on all of the above:
 - (not in drawing yet): RELATED/SUGGESTIONS: Find related stuff and people to cooperate with (or compete against?).
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ON IMPLEMENTATION:
+==================
 On Windows File Explorer it could be realized by:
 - create something that when installed takes over all file type associations
 - maybe extending it. On previous Windows versions I've seen that done. Then you could also maybe in the contextMenu have "link to file in web interface". Maybe learn from https://fileviewerplus.com/manual/overview
