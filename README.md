@@ -20,9 +20,6 @@ DESIGN: The columns from left to right:
 <br>
 <br>
 <br>
-<br>
-<br>
-
 ON IMPLEMENTATION:
 ==================
 Where to try to get information about file types:
@@ -42,4 +39,7 @@ On Windows File Explorer it could be realized by:
 - https://docs.microsoft.com/en-us/windows/win32/shell/how-to-assign-a-custom-icon-to-a-file-type
 - https://hello.fileslide.io/
 
+<br>
+<br>
+<br>
  (possible companion of [webber](https://github.com/steltenpower/webber))
