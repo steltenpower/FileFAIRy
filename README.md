@@ -37,6 +37,7 @@ On Windows File Explorer it could be realized by:
 - create something that when installed takes over all file type associations
 - maybe extending it. On previous Windows versions I've seen that done. Maybe learn from https://fileviewerplus.com/manual/overview
 - ftype assoc
+- https://www.tenforums.com/customization/66964-add-comments-tags-metadata-files-explorer-folder-comments.html
 - https://docs.microsoft.com/en-us/windows/win32/shell/how-to-assign-a-custom-icon-to-a-file-type
 - https://hello.fileslide.io/
 
