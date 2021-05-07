@@ -1,10 +1,10 @@
 # FAIRfilesViewing
 First think of any list of files, e.g. Windows File Explorer, or what you get in DropBox, Google Drive, Microsoft Teams, OwnCloud, NextCloud, Figshare, Dataverse, DANS EASY, SURF research drive and many, many more.
-Now look at the quick sketch here and below I'll explain how and why they differ.
+Now look at the quick sketch here and below I'll explain how and why they differ more than you think.
 ![alt text](https://repository-images.githubusercontent.com/149428210/f8bcf200-77cf-11eb-93f8-452cf9db3dcb "Sharing a network of data, over the list of files you have")
 
-DESIGN: The columns from left to right:
-=======================================
+DESIGN: The columns and menus (not all drawn yet)
+=================================================
 - OPEN SPEC: Is the file type of a file a so-called open specification? I used a green O for open (e.g. HTML), a dashed O for 'open' (e.g. OOXML, open by license, but seems not designed to make interoperability easy) and a red C for closed formats.
 - PREF: Is it a preferred/allowed format by parties (journals, research archives, anybody) you find important? I used the direction and color of thumbs to visualize. Clicking it pops up settings for (more) validation: spelling, linters, accessibility (a11y), link checkers, etc., etc.
 - VALID: What's the result of automatic validation of the file against the specification and schema? See goodtables.io, validator.w3.org and others.
