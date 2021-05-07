@@ -20,6 +20,7 @@ DESIGN: The columns from left to right:
 <br>
 <br>
 <br>
+
 ON IMPLEMENTATION:
 ==================
 Where to try to get information about file types:
