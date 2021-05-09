@@ -17,9 +17,7 @@ DESIGN: The columns and menus (not all drawn yet)
 - COMMITED: everything has a commit/version. We all GIT, right?
 - (not in drawing yet): MORE METADATA (DC and other vocabulaires) and based on all of the above:
 - (not in drawing yet): RELATED/SUGGESTIONS: Find related stuff and people to cooperate with (or compete against?).
-<br>
-<br>
-<br>
+- add something like “phase”={active, published} and “usage licence”? Somehow linked to Users.
 
 ON IMPLEMENTATION:
 ==================
@@ -41,8 +39,10 @@ On Windows File Explorer it could be realized by:
 - https://docs.microsoft.com/en-us/windows/win32/shell/how-to-assign-a-custom-icon-to-a-file-type
 - https://hello.fileslide.io/
 
+- [Dutch table as too-easy explanation of FAIR data](https://srs.saxion.nl/wp-content/uploads/2019/01/SRS_poster_2019_FAIR-724x1024.jpg)
 <br>
 <br>
 <br>
  possible companion of <a href="https://github.com/steltenpower/webber">webber</a>
+ 
  
