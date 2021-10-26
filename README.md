@@ -22,6 +22,7 @@ DESIGN: The columns and menus (not all drawn yet)
 ON IMPLEMENTATION:
 ==================
 Where to try to get information about file types:
+- https://github.com/steltenpower/FAIRfilesViewing
 - wikidata
 - https://www.wikidata.org/wiki/Q235557
 - https://www.wikidata.org/wiki/Property:P3381
