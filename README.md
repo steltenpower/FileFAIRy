@@ -22,7 +22,9 @@ DESIGN: The columns and menus (not all drawn yet)
 ON IMPLEMENTATION:
 ==================
 Where to try to get information about file types:
-- https://github.com/steltenpower/FAIRfilesViewing
+- https://owncloud.design/#/oC%20Components/OcTableFiles
+- https://github.com/owncloud/web/blob/master/packages/web-app-files/src/views/Personal.vue
+- 
 - wikidata
 - https://www.wikidata.org/wiki/Q235557
 - https://www.wikidata.org/wiki/Property:P3381
