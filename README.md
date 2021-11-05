@@ -24,8 +24,7 @@ ON IMPLEMENTATION:
 Where to try to get information about file types:
 - https://owncloud.design/#/oC%20Components/OcTableFiles
 - https://github.com/owncloud/web/blob/master/packages/web-app-files/src/views/Personal.vue
-- 
-- wikidata
+- https://files.community/ 
 - https://www.wikidata.org/wiki/Q235557
 - https://www.wikidata.org/wiki/Property:P3381
 - https://www.wikidata.org/wiki/Q686498
