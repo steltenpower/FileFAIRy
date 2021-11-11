@@ -1,4 +1,4 @@
-# FAIRfilesViewing
+# FAIRfilesListing
 First think of any list of files, e.g. Windows File Explorer, or what you get in DropBox, Google Drive, Microsoft Teams, OwnCloud (used in SURF Research Drive), NextCloud, Figshare, Dataverse, DANS EASY and many, many more.
 Now look at the quick sketch here and below I'll explain how and why they differ more than you think.
 ![alt text](https://repository-images.githubusercontent.com/149428210/f8bcf200-77cf-11eb-93f8-452cf9db3dcb "Sharing a network of data, over the list of files you have")
