@@ -3,7 +3,7 @@ First think of any list of files, e.g. Windows File Explorer, or what you get in
 Now look at the quick sketch here and below I'll explain how and why they differ more than you think.
 ![alt text](https://repository-images.githubusercontent.com/149428210/f8bcf200-77cf-11eb-93f8-452cf9db3dcb "Sharing a network of data, over the list of files you have")
 
-YES!, Rick has a minimal working example at https://github.com/rickdkk/fair-file-columns 
+YES!, Rick has a minimal working example (and video) at https://github.com/rickdkk/fair-file-columns 
 
 DESIGN: The columns and menus (not all drawn yet)
 =================================================
