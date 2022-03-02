@@ -45,6 +45,8 @@ On Windows File Explorer it could be realized by:
 - https://en.wikipedia.org/wiki/File_Explorer#Extensibility
 - https://www.hongkiat.com/blog/extensions-for-file-explorer/
 
+Seems DataVerse is interested: https://github.com/IQSS/dataverse/issues/8453
+
 - [Dutch table as too-easy explanation of FAIR data](https://srs.saxion.nl/wp-content/uploads/2019/01/SRS_poster_2019_FAIR-724x1024.jpg)
 <br>
 <br>
