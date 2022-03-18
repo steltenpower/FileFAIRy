@@ -1,5 +1,14 @@
 # FAIRfilesListing
 First think of any list of files, e.g. Windows File Explorer, or what you get in DropBox, Google Drive, Microsoft Teams, OwnCloud (used in SURF Research Drive), NextCloud, Figshare, Dataverse, DANS EASY and many, many more.
+
+Then think of what step every character of FAIR makes possible:
+- Findable makes the bridge from search terms to addresses
+- Accessible makes the bridge from addresses to files
+- Interoperable makes the bridge from files to data you can technically and semantically work with
+- Re-usable makes the bridge from data you CAN work with to what is allowed with that data
+
+See also [Dutch table as too-easy explanation of FAIR data](https://srs.saxion.nl/wp-content/uploads/2019/01/SRS_poster_2019_FAIR-724x1024.jpg)
+
 Now look at the quick sketch here and below I'll explain how and why they differ more than you think.
 ![alt text](https://repository-images.githubusercontent.com/149428210/f8bcf200-77cf-11eb-93f8-452cf9db3dcb "Sharing a network of data, over the list of files you have")
 
@@ -49,10 +58,7 @@ Seems DataVerse is interested:
 https://github.com/IQSS/dataverse/issues/8453
 https://groups.google.com/g/dataverse-community/c/jMt-COccvo0
 
-- [Dutch table as too-easy explanation of FAIR data](https://srs.saxion.nl/wp-content/uploads/2019/01/SRS_poster_2019_FAIR-724x1024.jpg)
-<br>
-<br>
-<br>
- possible companion of <a href="https://github.com/steltenpower/webber">webber</a>
+
+possible companion of <a href="https://github.com/steltenpower/webber">webber</a>
  
  
