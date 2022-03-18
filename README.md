@@ -4,8 +4,8 @@ First think of any list of files, e.g. Windows File Explorer, or what you get in
 Then think of what step every character of FAIR makes possible:
 - Findable makes the bridge from search terms to addresses
 - Accessible makes the bridge from addresses to files
-- Interoperable makes the bridge from files to data you can technically and semantically work with
-- Re-usable makes the bridge from data you CAN work with to what is allowed with that data
+- Interoperable makes the bridge from files to datasets you can technically and semantically work with
+- Re-usable makes the bridge from datasets you CAN work with to what is allowed with these datasets
 
 See also [Dutch table as too-easy explanation of FAIR data](https://srs.saxion.nl/wp-content/uploads/2019/01/SRS_poster_2019_FAIR-724x1024.jpg)
 
