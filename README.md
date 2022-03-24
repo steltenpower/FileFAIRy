@@ -55,8 +55,8 @@ On Windows File Explorer it could be realized by:
 - https://www.hongkiat.com/blog/extensions-for-file-explorer/
 
 Seems DataVerse is interested:
-https://github.com/IQSS/dataverse/issues/8453
-https://groups.google.com/g/dataverse-community/c/jMt-COccvo0
+[github issue](https://github.com/IQSS/dataverse/issues/8453) (and also 
+https://groups.google.com/g/dataverse-community/c/jMt-COccvo0 )
 
 
 possible companion of <a href="https://github.com/steltenpower/webber">webber</a>
