@@ -33,9 +33,11 @@ DESIGN: The columns and menus (not all drawn yet)
 ON IMPLEMENTATION:
 ==================
 
-Seems DataVerse is interested:
+Seems DataVerse is at least somewhat interested:
 [github issue](https://github.com/IQSS/dataverse/issues/8453) (and also 
 https://groups.google.com/g/dataverse-community/c/jMt-COccvo0 )
+
+Put the suggestion towards ownCloud too: https://central.owncloud.org/t/how-to-add-new-defined-columns-to-lists-of-files/37834
 
 Where to try to get information about file types:
 - https://owncloud.design/#/oC%20Components/OcTableFiles
