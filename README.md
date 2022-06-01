@@ -32,6 +32,11 @@ DESIGN: The columns and menus (not all drawn yet)
 
 ON IMPLEMENTATION:
 ==================
+
+Seems DataVerse is interested:
+[github issue](https://github.com/IQSS/dataverse/issues/8453) (and also 
+https://groups.google.com/g/dataverse-community/c/jMt-COccvo0 )
+
 Where to try to get information about file types:
 - https://owncloud.design/#/oC%20Components/OcTableFiles
 - https://github.com/owncloud/web/blob/master/packages/web-app-files/src/views/Personal.vue
@@ -53,11 +58,6 @@ On Windows File Explorer it could be realized by:
 - https://hello.fileslide.io/
 - https://en.wikipedia.org/wiki/File_Explorer#Extensibility
 - https://www.hongkiat.com/blog/extensions-for-file-explorer/
-
-Seems DataVerse is interested:
-[github issue](https://github.com/IQSS/dataverse/issues/8453) (and also 
-https://groups.google.com/g/dataverse-community/c/jMt-COccvo0 )
-
 
 possible companion of <a href="https://github.com/steltenpower/webber">webber</a>
  
