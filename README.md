@@ -31,7 +31,7 @@ DESIGN: The columns and menus (not all drawn yet)
 - add something like “phase”={active, published} and “usage licence”? Somehow linked to Users.
 
 - Also some file names give trouble with Windows, or OneDrive, or ...
-- Hints on what files are allowed to be shared where, for NDA, privacy, whatever reasons perhaps?
+- Hints on what files are allowed to be shared where, for NDA, privacy, whatever reasons perhaps? Use SoLiD pods?
 
 ON IMPLEMENTATION:
 ==================
