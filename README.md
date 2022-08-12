@@ -30,6 +30,9 @@ DESIGN: The columns and menus (not all drawn yet)
 - (not in drawing yet): RELATED/SUGGESTIONS: Find related stuff and people to cooperate with (or compete against?).
 - add something like “phase”={active, published} and “usage licence”? Somehow linked to Users.
 
+- Also some file names give trouble with Windows, or OneDrive, or ...
+- Hints on what files are allowed to be shared where, for NDA, privacy, whatever reasons perhaps?
+
 ON IMPLEMENTATION:
 ==================
 
