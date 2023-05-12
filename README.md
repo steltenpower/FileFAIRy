@@ -65,5 +65,8 @@ On Windows File Explorer it could be realized by:
 - https://www.hongkiat.com/blog/extensions-for-file-explorer/
 
 possible companion of <a href="https://github.com/steltenpower/webber">webber</a>
- 
+
+Was suggested for 4TU's repository here: https://github.com/4TUResearchData/djehuty/issues/6
+
+Combinations with https://github.com/ITC-CRIB/fairly perhaps? That is a Python library / unix shell tool / Jupyter extension to communicate with data repositories and archives in a git-like manner.
  
