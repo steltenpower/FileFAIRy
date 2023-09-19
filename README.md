@@ -70,3 +70,6 @@ Was suggested for 4TU's repository here: https://github.com/4TUResearchData/djeh
 
 Combinations with https://github.com/ITC-CRIB/fairly perhaps? That is a Python library / unix shell tool / Jupyter extension to communicate with data repositories and archives in a git-like manner.
  
+Manager of SURF's researchDrive devteam liked the idea and mentioned a problem at a university that would likely would have been prevented by it. Said he would discuss it with the team, but warned that as they don't use a fork, but the general release of ownCloud, it might not be so likely to happen (there).
+
+The part of ownCloud that this idea is aimed at: https://github.com/owncloud/core
