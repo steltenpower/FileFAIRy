@@ -74,3 +74,5 @@ Manager of SURF's researchDrive devteam liked the idea and mentioned a problem a
 The part of ownCloud that this idea is aimed at: https://github.com/owncloud/core
 
 Research Cloud actually makes a better fit SURF told me
+
+The guy behind https://www.sen-labs.org/ said this idea is actually quite similar to what he's working on.
