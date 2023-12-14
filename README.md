@@ -76,3 +76,5 @@ The part of ownCloud that this idea is aimed at: https://github.com/owncloud/cor
 Research Cloud actually makes a better fit SURF told me
 
 The guy behind https://www.sen-labs.org/ said this idea is actually quite similar to what he's working on.
+
+JupyterLab is interested (see Github issues)
