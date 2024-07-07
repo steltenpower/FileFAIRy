@@ -1,4 +1,7 @@
 # FileFAIRy (or in Dutch: bestandenfee)
+
+Long version of how I got to this idea(s): https://raw.githubusercontent.com/steltenpower/PowerGists/main/LCRDMsheets.pdf
+
 First think of any list of files, e.g. Windows File Explorer, or what you get in DropBox, Google Drive, Microsoft Teams, OwnCloud (used in SURF Research Drive), NextCloud, Figshare, Dataverse, DANS EASY and actually the file menu of many applications.
 
 Then think of what step every character of FAIR makes possible:
