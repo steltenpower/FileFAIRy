@@ -85,3 +85,13 @@ JupyterLab is interested (see Github issues)
 complexity of filetype detection (extension is not enough): https://youtu.be/PBbld8xB2Bo
 
 https://www.nationalarchives.gov.uk/pronom/BasicSearch/proBasicSearch.aspx?status=new
+
+Comments from @stuartyeates@cloudisland.nz:
+================
+(a) Have you meet JHOVE? It's built on #PRONOM and #DROID and many format-specific validators and metadata extractors. 
+
+(b) HTML (your example) may not be a simple as you expect; there are a billion variants and it's very easy to have missing dependencies (i.e. missing css, javascript and image files).
+
+(c) Your model appears to be missing non-copyright intellectual property rights (things like https://localcontexts.org/) and ways of handling PII (which is v important for medical data, for example)
+
+(d) Have you encountered https://www.loc.gov/standards/mets/ as a way of bundling disparate metadata formats? I've got workshop notes on it at https://figshare.com/articles/dataset/METS_metadata_for_complete_beginners_workshop_samples_/5606917 #METS #metadata
