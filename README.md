@@ -86,6 +86,8 @@ complexity of filetype detection (extension is not enough): https://youtu.be/PBb
 
 https://www.nationalarchives.gov.uk/pronom/BasicSearch/proBasicSearch.aspx?status=new
 
+Zenodo update: https://github.com/IQSS/dataverse/issues/8453#issuecomment-2511895395
+
 Comments from @stuartyeates@cloudisland.nz:
 ================
 (a) Have you meet JHOVE? It's built on #PRONOM and #DROID and many format-specific validators and metadata extractors. 
