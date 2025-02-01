@@ -97,3 +97,6 @@ Comments from @stuartyeates@cloudisland.nz:
 (c) Your model appears to be missing non-copyright intellectual property rights (things like https://localcontexts.org/) and ways of handling PII (which is v important for medical data, for example)
 
 (d) Have you encountered https://www.loc.gov/standards/mets/ as a way of bundling disparate metadata formats? I've got workshop notes on it at https://figshare.com/articles/dataset/METS_metadata_for_complete_beginners_workshop_samples_/5606917 #METS #metadata
+
+
+https://google.github.io/magika/
