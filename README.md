@@ -100,3 +100,5 @@ Comments from @stuartyeates@cloudisland.nz:
 
 
 https://google.github.io/magika/
+
+Count filetype use with Windows PowerShell:  (dir *.* -file -r).Extension | group | select Count, Name | sort Count -Descending
