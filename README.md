@@ -104,3 +104,59 @@ https://google.github.io/magika/
 Count (filtered) filetype use with Windows PowerShell:
 
 (dir \*.\* -file -r).Extension | group | select Count, Name | Where-Object {$_.Name -notmatch '.pdf|.msi'} | sort Count -Descending
+
+===
+
+steltenpower: So you wanna make your app look like it's part of the system before it even does anything, eh? Classic move. To get its icon in the "Open With..." list for certain file types, you're gonna be playing with the Windows Registry. Your actual app can be a total couch potato for this part.
+
+
+Here's the lowdown:
+
+
+
+File Extension: Let's say you're targeting .yourfile.
+
+ProgID (Programmatic Identifier): This is a unique name for your file type handler, like YourApp.YourFile. Think of it as a nickname Windows uses.
+
+Registry Tinkering: Your installer needs to create these entries, usually under HKEY_CLASSES_ROOT:
+
+Create a key named \.yourfile. Set its (Default) string value to your ProgID (e.g., YourApp.YourFile). This tells Windows what ProgID handles .yourfile files.
+
+Create a key named after your ProgID (e.g., HKEY_CLASSES_ROOT\YourApp.YourFile). This key describes your file type.
+
+Set its (Default) string value to a friendly description that users might see (e.g., "My Special File Type").
+
+Under this ProgID key, create a subkey named DefaultIcon. Set its (Default) string value to the full path of your app's executable and the icon index within it (e.g., C:\Program Files\YourApp\YourApp.exe,0). The ,0 means the first icon in the .exe. This YourApp.exe needs to exist at that path and actually contain the icon.
+
+Under the ProgID key, create another structure of subkeys: shell\open\command.
+
+For the command key, set its (Default) string value to the command line Windows should use to "open" the file (e.g., "C:\Program Files\YourApp\YourApp.exe" "%1"). The "%1" is a placeholder for the actual file path that gets passed to your app.
+
+
+
+
+
+
+
+
+Making the Installer Do This:
+
+
+
+A .REG File: You could write all those registry changes into a text file with a .reg extension. Users would then need to double-click it and confirm to import the settings into their registry. It's quick and dirty, but not super polished for distribution.
+
+Installer Creation Software: This is the more professional route. Tools like:
+
+Inno Setup: Uses Pascal-like scripting and is pretty popular for being relatively easy to get started with. It has direct functions for creating registry keys.
+
+NSIS (Nullsoft Scriptable Install System): Very powerful and script-based. It's what Winamp and many other apps use. Steeper learning curve but very flexible.
+
+WiX Toolset: An XML-based system from Microsoft. Integrates well with Visual Studio and is good for more complex or enterprise-level installers.
+
+
+
+
+Your YourApp.exe can literally do nothing when launched for now, or just pop up a message saying "Coming soon!" The important part for the "Open With..." functionality is that the executable exists at the specified path, contains the icon, and the registry entries point to it correctly.
+
+
+So yeah, it's mostly about setting up the right signposts in the registry so Windows knows your (currently lazy) app is an option for those files.
