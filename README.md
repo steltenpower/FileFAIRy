@@ -160,3 +160,5 @@ Your YourApp.exe can literally do nothing when launched for now, or just pop up 
 
 
 So yeah, it's mostly about setting up the right signposts in the registry so Windows knows your (currently lazy) app is an option for those files.
+
+https://voidknot.blogspot.com/2013/12/creating-file-associations-in-nsis.html
