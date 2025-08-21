@@ -17,8 +17,8 @@ Now look at the quick sketch here and below I'll explain how and why they differ
 
 YES!, Rick has a minimal working example (and video) at https://github.com/rickdkk/fair-file-columns 
 
-DESIGN: The columns and menus (not all drawn yet)
-=================================================
+DESIGN: Possible columns and menus (some drawn in image above)
+==============================================================
 - OPEN SPEC: Is the file type of a file a so-called open specification? I used a green O for open (e.g. HTML), a dashed O for 'open' (e.g. OOXML, open by license, but seems not designed to make interoperability easy) and a red C for closed formats.
 - PREF: Is it a preferred/allowed format by parties (journals, research archives, anybody) you find important? I used the direction and color of thumbs to visualize. Clicking it pops up settings for (more) validation: spelling, linters, accessibility (a11y), link checkers, etc., etc.
 - VALID: What's the result of automatic validation of the file against the specification and schema? See goodtables.io, validator.w3.org and others.
